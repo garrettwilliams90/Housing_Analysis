@@ -71,13 +71,13 @@ https://github.com/garrettwilliams90/Housing_Analysis/tree/main/data
 
 ### Notebooks
 
-https://github.com/garrettwilliams90/Housing_Analysis/blob/main/TeamBrass.ipynb
+Entire: https://github.com/garrettwilliams90/Housing_Analysis/blob/main/Notebooks/Entire.ipynb
 
-https://github.com/garrettwilliams90/Housing_Analysis/blob/main/Simplified_TeamBrass.ipynb
+Summary: https://github.com/garrettwilliams90/Housing_Analysis/blob/main/Summary.ipynb
 
 ### Presentation
 
-https://github.com/garrettwilliams90/Housing_Analysis/blob/main/Phase%202%20Project%20presentation%20(1).pdf
+https://github.com/garrettwilliams90/Housing_Analysis/blob/main/presentation.pdf
 
 ### Team Members
 
